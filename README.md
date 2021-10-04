@@ -12,6 +12,7 @@
 
 - I m learning C at present.
 - I am interested in web development and coding.
+- Studying CSE in STCET.
 - Always a learner!
 - My name means *good girl*, but then **What's in a name?**
             
