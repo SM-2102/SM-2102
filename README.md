@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png"/><img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/fluency-systems-filled/50/000000/python.png"/>
+<p align="left"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png"/><img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/fluency-systems-filled/50/000000/python.png"/><img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/><img src="https://img.icons8.com/ios-filled/50/000000/javascript.png"/><img src="https://img.icons8.com/ios-filled/50/000000/html.png"/><img src="https://img.icons8.com/ios-filled/50/000000/css.png"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SM-2102&" alt="SM-2102" /></p>
   
