@@ -1,8 +1,6 @@
 <h1 align="center">Hola amigo! Mi nombre es Sukanya Manna 🖤</h1>
 <h3 align="center">Dark academia enthusiast</h3>
 
-<p align="center"><img align="center" src="https://64.media.tumblr.com/ef8bf60003843db4f385d3767c6595ac/c9bd3beb41efbe73-20/s400x600/8204f0efe944dada3a98cf44f2b6cbb6aed0ab42.gifv" /></p>
-
   
 - LIFE SOURCE - **BOOKS  &  MUSIC**
 
