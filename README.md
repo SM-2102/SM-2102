@@ -1,12 +1,5 @@
-<h1 align="center">Hola amigo! Mi nombre es Sukanya Manna 🖤</h1>
+<h1 align="center">Sukanya Manna</h1>
 <h3 align="center">Dark academia enthusiast</h3>
-
-  
-- LIFE SOURCE - **BOOKS  &  MUSIC**
-
-     ![](https://64.media.tumblr.com/0739239d127378152ec2ed55b95dc9db/c9bd3beb41efbe73-99/s400x600/55e26ee79d608d7e6eba90dd053e7569731a6f4d.gifv)
-     
-     ![](https://64.media.tumblr.com/e6c4e95bea1d6a360ef8bdc785ad11ae/c9bd3beb41efbe73-00/s400x600/d0b8c1271100990aa315ab6545196f4b035a876e.gifv)
 
 - I am interested in web development and coding.
 - Studying CSE in STCET.
