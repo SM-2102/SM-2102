@@ -1,7 +1,9 @@
-<h1 align="center">Sukanya Manna</h1>
+<h1 align="center">Heyy! I'm Sukanya Manna</h1>
 <h3 align="center">Dark academia enthusiast</h3>
 
-- I am interested in web development and coding.
+![](https://64.media.tumblr.com/1a681805f1f34223b1e58b0dee27dedd/tumblr_pfo22kmL5R1w4t58uo2_540.gifv)
+
+- I am interested in learning how to hack stuff.
 - Studying CSE in STCET.
 - Always a learner!
 - My name means *good girl*, but then **What's in a name?**
